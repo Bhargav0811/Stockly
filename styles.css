@@ -1,0 +1,318 @@
+body{
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.css-ffhzg2 {
+  /* background-image: url("https://w0.peakpx.com/wallpaper/8/305/HD-wallpaper-finance-concepts-charts-background-with-graphs-stock-exchanges-money-business-concepts-finance.jpg"); */
+  background-image: url("https://w0.peakpx.com/wallpaper/502/217/HD-wallpaper-cyan-color-background-ultra-aero-colorful-color-background-cyan-simple-colour-minimalism-gradient-greenishblue.jpg");
+
+  background-repeat: no-repeat;
+ background-size: cover;
+}
+.css-16huue1 {
+  font-size: 20px;
+}
+.css-18e3th9 {
+  flex: 1 1 0%;
+  width: 65%;
+  padding: 6rem 1rem 10rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  min-width: auto;
+  max-width: initial;
+}
+.css-k69h50 {
+  width: 60%;
+  margin: auto;
+}
+.value{
+  color: #41729f;
+  font-size: 20px;
+  border: 3px solid #01949a !important;
+  font-weight: bold;
+}
+.CurB{
+  text-align: center;
+  color: #4C5270 !important;
+}
+.CurB_Am{
+  color: #F652A0;
+}
+.by{
+    background-color: cadetblue;
+    color: purple;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size:medium;
+}
+.css-16huue1 {
+  color: #7A3E26;
+  font-weight: bolder;
+}
+label {
+  display: inline-block;
+}
+:root {
+  --primary-color: #ff4b4b;
+  --secondary-background-color: #262730;
+  --text-color: #fafafa;
+  --font: "Source Sans Pro", sans-serif;
+}
+.menu.container-xxl{
+  width: 50%;
+}
+.css-v37k9u {
+  font-family: Lucida Sans;
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+.etr89bj1 img {
+  width: 60% !important;
+  height: 60%;
+  margin: 5% auto;
+  border-radius: 3%;
+  box-shadow: 1px 2px 40px 20px #29A0B1;
+}
+.heading1 {
+  color: #14527C;
+  font-family: 'Game Played';
+  font-weight: bolder;
+  font-size: 5rem;
+  text-align: center;
+  line-height: 1;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 5%;
+  text-shadow: 2px 3px  #ECF87F;
+}
+.css-r698ls {
+  display: none;
+}
+/* .css-10trblm{
+  color: #481D01;
+} */
+.st-dj {
+  color: white;
+  font-weight: bolder !important;
+}
+.stDataFrame{
+  margin: 3% auto;
+}
+.css-1j3ha61 {
+  background-color: # !important;
+  font-weight: bolder;
+  text-align: center;
+  border: 0;
+}
+.css-1j3ha61 {
+  font-weight: bolder;
+  text-align: center;
+}
+.css-v37k9u {
+  font-family: Lucida Sans;
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+.css-ffhzg2 {
+  color: #274472 !important;
+}
+.css-17z2rne {
+  color: #2F5233 !important;
+}
+.css-1wz23y6 {
+  width: 672px;
+  border: 0 !important;
+  box-sizing: content-box;
+}
+/* .stButton {
+  margin: 2% 9% auto;
+  width: 75% !important;
+  text-align: center;
+} */
+.egzxvld2 {
+  width: 75% !important;
+}
+.css-1q8dd3e {
+  color: #BCECE0;
+}
+.stButton {
+  margin: 2% 20% auto;
+  width: 45% !important;
+  text-align: center;
+}
+.su {
+background-color: #D2FBA4;
+width: 80%;
+margin: 1% auto;
+text-align: center;
+padding: 2%;
+border-radius: 10%;
+-webkit-box-shadow: 0 0 13px 8px #32CD30 inset;
+-moz-box-shadow: 0 0 13px 8px #32CD30 inset;
+box-shadow: 0 0 13px 8px #32CD30 inset;
+}
+.er{
+  background-color: #F7BEC0;
+  width: 80%;
+  margin: 1% auto;
+  text-align: center;
+  padding: 2%;
+  border-radius: 10%;
+  -webkit-box-shadow: 0 0 13px 8px #F83C31 inset;
+-moz-box-shadow: 0 0 13px 8px #F83C31 inset;
+box-shadow: 0 0 13px 8px #F83C31 inset;
+}
+.warn{
+  background-color: #FFED86;
+  width: 80%;
+  margin: 1% auto;
+  text-align: center;
+  padding: 2%;
+  border-radius: 10%;
+  -webkit-box-shadow: 0 0 13px 8px #F86F15 inset;
+-moz-box-shadow: 0 0 13px 8px #F86F15 inset;
+box-shadow: 0 0 13px 8px #F86F15 inset;
+}
+.warn_msg{
+  font-family: Gill Sans MT;
+  font-size: 2rem;
+  font-weight: bolder;
+  color: #F86F15;
+}
+.su_msg{
+  font-family: Gill Sans MT;
+  font-size: 2rem;
+  font-weight: bolder;
+  color: #32CD30;
+}
+.er_msg{
+  font-family: HP Simplified Jpan;
+  font-size: 2rem;
+  font-weight: bolder;
+  color: #F83C31;
+}
+
+.css-1lj9cyx {
+  width: 1181px;
+  box-sizing: content-box;
+  margin: 10% auto;
+}
+.css-15h5wov {
+  font-size: 1.3rem;
+}
+.css-1j3ha61 {
+  font-size: 1.2rem;
+}
+.css-1j3ha61 {
+  background-color: #29A0B1;
+  font-weight: bolder;
+  color: #DDFFE7;
+  text-align: center;
+  border: 2px solid #274472;
+    border-bottom-color: rgb(54, 238, 224);
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
+.css-2ykyy6 {
+  display: none;
+}
+.css-ffhzg2 {
+  color: rgb(54, 238, 224);
+}
+.css-183lzff {
+  font-size: 44px;
+  text-align: center;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+.css-1q8dd3e {
+  margin-left: 44%;
+  margin-right: auto;
+  font-size: 1.5rem;
+  margin-top: 3%;
+  width: 200px;
+}
+.Pass_Ins li{
+  font-weight: bolder;
+  color: #274472;
+}
+.css-18e3th9 {
+  flex: 1 1 0%;
+  width: 80%;
+  padding: 6rem 1rem 10rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+  min-width: auto;
+  max-width: initial;
+}
+.css-1dsu4p8 {
+  font-size: 3rem;
+  text-align: center;
+}
+.css-1rc53cf {
+  width: 50%;
+  border: 5px solid #e3e8e9;
+  margin-left: 25%;
+  margin-right: auto;
+}
+.css-1j3ha61 {
+  background-color: #bbe7fe;
+  font-weight: bolder;
+  color: black;
+  text-align: center;
+}
+.css-ps6290 {
+  text-align: center !important;
+}
+.highlight {
+    border-radius: 0.4rem;
+    color: white;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+}
+.bold {
+    padding-left: 1rem;
+    font-weight: 700;
+}
+.blue {
+    background-color: lightcoral;
+}
+.s1 {
+    background-color: lightblue;
+    color:blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.Final{
+  margin: 5% auto;
+  background-color: rgba(229, 221, 200, 0.8);
+}
+.field{
+  color: #274472;
+  border: 3px solid #01949a !important;
+  font-weight: bolder;
+  text-align: center;
+}
+.edgvbvh9{
+  margin-left: 35%;
+}
+
+.centre{
+    font-style: italic;
+    color: blueviolet;
+    background-color:tomato;
+}
+.side{
+    color: darkblue;
+    background-color: thistle;
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+}
